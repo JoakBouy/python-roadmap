@@ -1,7 +1,4 @@
 # Backend Developer Roadmap for Python and Django
-- [x] Item 1
-- [ ] Item 2
-- [x] Item 3
 
 ## Basic Computer Science Concepts
 - [ ] Data Structures (Arrays, Linked Lists, Trees, Graphs, Stacks, Queues, Hash Tables)
